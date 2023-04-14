@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/futurePro/static/css/main.223f6944.css",
+    "main.js": "/futurePro/static/js/main.656113c2.js",
+    "index.html": "/futurePro/index.html",
+    "main.223f6944.css.map": "/futurePro/static/css/main.223f6944.css.map",
+    "main.656113c2.js.map": "/futurePro/static/js/main.656113c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.223f6944.css",
+    "static/js/main.656113c2.js"
+  ]
+}
